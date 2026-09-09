@@ -1,0 +1,6 @@
+{
+  "name": "Millilegacy Automation Control Center",
+  "description": "AI-Powered Commerce Automation & Monitoring Control Center by Millilegacy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
